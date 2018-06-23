@@ -11,6 +11,7 @@
     <body>
         
         <?php
+        require_once('/index.html');
         include 'inc/functions.php';
         ?>
         
